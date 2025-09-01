@@ -31,7 +31,7 @@ export default function HomePage() {
         {/* Profile Picture */}
         <div className="flex-shrink-0">
           <img
-            src="/assets/profile2.jpg" // Replace with your actual image path
+            src="/assets/profile2.JPG" // Replace with your actual image path
             alt="Richard Sayson"
             className="w-48 h-48 md:w-64 md:h-64 rounded-full object-cover border-4 border-blue-600 shadow-lg"
           />
