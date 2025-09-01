@@ -13,10 +13,10 @@ export default function HomePage() {
         {/* Text Section */}
         <div className="space-y-6 max-w-2xl">
           <h1 className="text-5xl font-bold text-gray-900 dark:text-white">
-            Hey, I{'’'}m <span className="text-blue-600">Richard Sayson</span>
+            I&apos;m <span className="text-blue-600">Richard Sayson</span>
           </h1>
           <p className="text-xl text-gray-700 dark:text-gray-300">
-            I{'’'}m a full-stack and mobile developer with a strong focus on building high-performance applications. I work across the stack using technologies like React, Node.js, TypeScript, Laravel (including Livewire), and Tailwind CSS. On the mobile side, I develop native apps using Java, Kotlin, and Swift — delivering clean, efficient, and scalable solutions across platforms.
+            I&apos;m a full-stack and mobile developer with a strong focus on building high-performance applications. I work across the stack using technologies like React, Node.js, TypeScript, Laravel (including Livewire), and Tailwind CSS. On the mobile side, I develop native apps using Java, Kotlin, and Swift — delivering clean, efficient, and scalable solutions across platforms.
           </p>
           <div className="flex gap-4 mt-4">
             <a href="#projects" className="px-5 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">
